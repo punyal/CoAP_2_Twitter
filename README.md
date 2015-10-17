@@ -1,2 +1,2 @@
-# CoAP_2_Twitter
+# CoAP 2 Twitter
 CoAP to Twitter proxy
